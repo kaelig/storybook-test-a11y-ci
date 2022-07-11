@@ -7,7 +7,7 @@
     "test-storybook": "test-storybook",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "chromatic": "npx chromatic --project-token=4cd8076d005e"
+    "chromatic": "chromatic --project-token=CHROMATIC_PROJECT_TOKEN"
   },
   "keywords": [],
   "author": {
