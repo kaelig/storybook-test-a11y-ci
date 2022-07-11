@@ -8,7 +8,9 @@ Additional documentation used to build this example:
 
 - https://storybook.js.org/docs/react/writing-tests/test-runner
 - https://storybook.js.org/docs/react/writing-tests/accessibility-testing
+- https://www.chromatic.com/docs/ci
+- https://www.chromatic.com/docs/github-actions
 
 Storybook deployed on Chromatic:
 
-- TODO
+- https://main--62cc72dcab307d1666bba837.chromatic.com

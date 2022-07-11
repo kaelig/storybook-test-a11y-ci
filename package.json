@@ -6,10 +6,13 @@
   "scripts": {
     "test-storybook": "test-storybook",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "chromatic": "npx chromatic --project-token=4cd8076d005e"
   },
   "keywords": [],
-  "author": "Kaelig Deloumeau-Prigent",
+  "author": {
+    "name": "Kaelig Deloumeau-Prigent"
+  },
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.18.6",
@@ -29,5 +32,7 @@
     "jest": "^27.5.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "storybook-a11y-test-automation@1.0.0"
 }

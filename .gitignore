@@ -5,3 +5,5 @@
 !.github
 
 node_modules
+
+*.log
