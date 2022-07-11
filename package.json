@@ -25,6 +25,7 @@
     "@storybook/testing-library": "^0.0.13",
     "axe-playwright": "^1.1.11",
     "babel-loader": "^8.2.5",
+    "chromatic": "^6.7.0",
     "jest": "^27.5.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
