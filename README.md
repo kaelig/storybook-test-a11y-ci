@@ -1,4 +1,4 @@
-# Storybook accessibility test automation
+# Example: Storybook accessibility test automation
 
 This repository showcases accessibility test automation with Storybook Test Runner, Jest, Axe, and GitHub Actions, following the tutorial [Automate accessibility tests with Storybook](https://storybook.js.org/blog/automate-accessibility-tests-with-storybook/) from [Varun Vachhar](https://github.com/winkerVSbecks).
 
