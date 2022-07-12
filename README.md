@@ -37,3 +37,8 @@ When you open a pull request to this repository, it starts Storybook and runs ac
 ```
 
 [Browse full test output log](https://github.com/kaelig/storybook-test-a11y-ci/runs/7292697893?check_suite_focus=true#step:7:1)
+
+### Alternatives
+
+- https://www.npmjs.com/package/@shopify/storybook-a11y-test (uses axe and Puppeteer)
+- ... Consider opening a pull request to add other alternatives!
